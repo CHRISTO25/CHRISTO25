@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHRISTO25
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning MERN
--     TRUST ME I AM A NOOB
+-  Hi, I’m @CHRISTO25
+-  coding 🕸
+-  MERN stack Developer 
+-  believe me the best is yet to come
