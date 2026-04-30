@@ -1,27 +1,39 @@
 # Hi, I'm Christo 👋
 
-🚀 Backend Developer focused on Go & Django  
-💡 Building real-world systems like Clinic Management & Face Recognition  
-🎯 Goal: Become a high-paying backend engineer  
+🚀 Backend Engineer (Node.js + Go)
+🌍 Building real-world deployed applications
+⚡ Focus: APIs, Performance, Scalable Systems
 
 ---
 
 ## 🛠️ Tech Stack
-- Go (Golang)
-- Python (Django)
-- MySQL / PostgreSQL
-- REST APIs
-- Git & GitHub
+
+* Node.js (Express / REST APIs)
+* Go (Golang backend services)
+* MySQL / PostgreSQL
+* JWT Auth, Middleware
+* Git & GitHub
 
 ---
 
-## 📌 Projects
-- 🏥 Clinic Management System (Django REST)
-- 🎮 Dino Game (JS Game Dev)
-- 🤖 Face Recognition System (OpenCV)
+## 🔥 Featured Work
+
+* 🌐 Hosted Node.js Web App (Live Project)
+* ⚙️ Go CLI Tool (Automation / Email sender)
+* 🏥 Clinic Management System (Django + APIs)
+* 🤖 Face Recognition System (OpenCV)
 
 ---
 
-## 📫 Contact Me
-- Email: yourmail@gmail.com
-- LinkedIn: your link
+## 🎯 Current Focus
+
+* Building production-ready backend systems
+* Improving Go performance & concurrency
+* Writing clean, scalable APIs
+
+---
+
+## 📫 Connect
+
+* LinkedIn: your link
+* Email: your mail
